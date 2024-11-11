@@ -1,6 +1,6 @@
 {
     "routes": [
-      { "src": "/work", "dest": "/work.html" },
+      { "src": "/work", "dest": "/public/work.html" },
       { "src": "/.*", "dest": "/" }
     ]
   }
